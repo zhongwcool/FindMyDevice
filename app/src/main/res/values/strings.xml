@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Find My Devices</string>
+    <string name="action_settings">Settings</string>
+    <string name="tips_version" formatted="false">Version: %s \t Type: %s</string>
+    <string name="tips_server_prepared">服务器已就绪： http://%s:%d/</string>
+    <string name="tips_send_push_stream_message">推流命令正在发送</string>
+</resources>
